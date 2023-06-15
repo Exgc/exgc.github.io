@@ -5,7 +5,19 @@
 
 - [OpenSR: Open-Modality Speech Recognition via Maintaining Multi-Modality Alignment](https://arxiv.org/abs/2306.06410) **Xize Cheng**, Tao Jin, Linjun Li, Wang Lin, Xinyu Duan, Zhou Zhao **ACL2023(Oral)**
 
-- **Academic / Industry Impact**: Our work are promoted by different media and forums, such as [Heart of Machine](https://mp.weixin.qq.com/s/pesuhzQ3cfaz-bhxMew46g), [New Intelligence](https://mp.weixin.qq.com/s/BXLxD0bboWS96iEHGZ9xTQ), and [Twitter](https://twitter.com/_akhaliq/status/1619589070329348096). We have code released at [![](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social&label=Code+Stars)](https://github.com/AIGC-Audio/AudioGPT) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/AIGC-Audio/AudioGPT), which is a Trending Project at both Github and Paperwithcode.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/avst.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition](https://arxiv.org/abs/2303.05309) **Xize Cheng**, Tao Jin, Rongjie Huang, Linjun Li, Wang Lin, Zehan Wang, Huadai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao **Arxiv2023**
 
 </div>
 </div>
+
+
+# Full Publication List
+
+
