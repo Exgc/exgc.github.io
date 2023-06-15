@@ -1,5 +1,4 @@
 # 🔥 News
-
-- *2022.10*: 🎉🎉 I win the 2022 national scholarship.
-- *2022.05*: My PNDM is used as the default acceleration sampling method for [CompVis/stable-diffusion ![](https://img.shields.io/github/stars/CompVis/stable-diffusion?style=social)](https://github.com/CompVis/stable-diffusion).
-- *2022.02*: I release the official implementation for PNDM (ICLR 2022).
+- *2023.03*: We create the first Audio-Visual Multi-lingual Speech Translation dataset [AVMuST-TED ![](https://img.shields.io/github/stars/CompVis/stable-diffusion?style=social)](https://github.com/Exgc/AVMuST-TED)!
+- *2022.10*: 🎉🎉 7 Paper
+- *2021.03*: I start my internship at Taobao as an algorithm intern, conducting multi-modality research.
