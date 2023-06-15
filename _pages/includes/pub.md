@@ -17,6 +17,14 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/av-transpeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](https://arxiv.org/abs/2305.15403) Rongjie Haung*, **Xize Cheng***, Huadai Liu, Yi Ren, Linjun Li, Zhenhui Ye, Jinzheng He, Lichao Zhang, Jinglin Liu, Xiang Yin, Zhou Zhao **ACL2023**
+
+</div>
+</div>
+
 
 # Full Publication List
 
