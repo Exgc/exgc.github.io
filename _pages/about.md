@@ -29,11 +29,6 @@ redirect_from:
 
 <br />
 <br />
-<br />
-<br />
-<br />
 <div style="text-align: center; line-height: 100px">
-<a href='https://clustrmaps.com/site/1bq4k'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=USVT5ZdiMifi_f-uIMrY3tmJJC5s1RLU2rz5sVs8mjY'/></a>
+<a href="https://clustrmaps.com/site/1bv5z"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=1MH_l0enQfXhHTai5k9Xy_9KqVmsp5G9l1SJLsFffwI&cl=ffffff" /></a>
 </div>
-
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=USVT5ZdiMifi_f-uIMrY3tmJJC5s1RLU2rz5sVs8mjY&cl=ffffff&w=a"></script> -->
