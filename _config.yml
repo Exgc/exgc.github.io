@@ -27,7 +27,7 @@ author:
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=7w1U0l4AAAAJ"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=7w1U0l4AAAAJ"
   email            : "chengxize@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/Exgc # e.g., "github username"
+  github           : Exgc # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -162,4 +162,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
