@@ -9,7 +9,7 @@
 title                    : "Xize Cheng(成曦泽)"
 description              : "Master's Degree at Zhejiang University. Major in Audio-Visual Speech Understanding and Digital Human Synthesis."
 repository               : "Exgc/exgc.github.io"
-google_scholar_stats_use_cdn : True
+google_scholar_stats_use_cdn : False
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
