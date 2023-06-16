@@ -28,7 +28,7 @@
 
 # Full Publication List
 
-# Audio-Visual Speech
+## Audio-Visual Speech
 
 - [OpenSR: Open-Modality Speech Recognition via Maintaining Multi-Modality Alignment.](https://arxiv.org/abs/2306.06410) **Xize Cheng**, Tao Jin, Linjun Li, Wang Lin, Xinyu Duan, Zhou Zhao. **ACL2023(Oral)**
 
@@ -37,7 +37,7 @@
 - [Contrastive Token-Wise Meta-Learning for Unseen Performer Visual Temporal-Aligned Translation.]() Linjun Li\*, Tao Jin\*, **Xize Cheng**\*, Ye Wang, Wang Lin, Rongjie Huang and Zhou Zhao. **ACL2023-finding**
 
 
-# Multi-modality Interpretation
+## Multi-modality Interpretation
 
 - [Weakly-Supervised Spoken Video Grounding via Semantic Interaction Learning.]() 	Ye Wang, Wang Lin, Shengyu Zhang, Tao Jin, Linjun Li, **Xize Cheng** and Zhou Zhao. **ACL2023(Oral)**
 

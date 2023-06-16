@@ -1,4 +1,4 @@
-# Internships & Projects
+# 💻 Internships & Projects
 - 2023.06 - Present: Research Intern: Huawei Cloud at Shenzhen, China.
 <br />Hosted by Xinyu Duan.
 
