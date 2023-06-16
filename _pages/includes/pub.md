@@ -28,4 +28,21 @@
 
 # Full Publication List
 
+# Audio-Visual Speech
 
+- [OpenSR: Open-Modality Speech Recognition via Maintaining Multi-Modality Alignment.](https://arxiv.org/abs/2306.06410) **Xize Cheng**, Tao Jin, Linjun Li, Wang Lin, Xinyu Duan, Zhou Zhao. **ACL2023(Oral)**
+
+- [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation.](https://arxiv.org/abs/2305.15403) Rongjie Haung\*, **Xize Cheng**\*, Huadai Liu\*, Yi Ren, Linjun Li, Zhenhui Ye, Jinzheng He, Lichao Zhang, Jinglin Liu, Xiang Yin, Zhou Zhao. **ACL2023**
+
+- [Contrastive Token-Wise Meta-Learning for Unseen Performer Visual Temporal-Aligned Translation.]() Linjun Li\*, Tao Jin\*, **Xize Cheng**\*, Ye Wang, Wang Lin, Rongjie Huang and Zhou Zhao. **ACL2023-finding**
+
+
+# Multi-modality Interpretation
+
+- [Weakly-Supervised Spoken Video Grounding via Semantic Interaction Learning.]() 	Ye Wang, Wang Lin, Shengyu Zhang, Tao Jin, Linjun Li, **Xize Cheng** and Zhou Zhao. **ACL2023(Oral)**
+
+- [TAVT: Towards Transferable Audio-Visual Text Generation.]() Wang Lin, Tao Jin, Wenwen Pan, Linjun Li, **Xize Cheng**, Ye Wang and Zhou Zhao. **ACL2023**
+
+- [Semantic-conditioned Dual Adaptation for Cross-domain Query-based Visual Segmentation.]() Ye Wang, Tao Jin, Wang Lin, **Xize Cheng**, Linjun Li and Zhou Zhao. **ACL2023-finding**
+
+- [Connecting Multi-modal Contrastive Representations.]() Zehan Wang, Yang Zhao, **Xize Cheng**, Haifeng Huang, Jiageng Liu, Li Tang, Linjun Li, Yongqi Wang, Aoxiong Yin, Ziang Zhang, Zhou Zhao. **Submitted to NIPS2023**
