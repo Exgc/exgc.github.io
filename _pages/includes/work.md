@@ -1,6 +1,7 @@
 # 💻 Internships & Projects
 - 2023.06 - Present: Research Intern: Huawei Cloud at Shenzhen, China.
-<br />Hosted by Xinyu Duan.
+<br />Hosted by Minglei Li, Kai Gong, Fei Ma, Tujie Xu.
+<br />Research on Talking Head Generation.
 
 - 2023.02 - 2023.04: Project Staff: Huawei Noah's Ark Lab
 <br />Hosted by Xinshan Zeng, Aoxiong Yin.
