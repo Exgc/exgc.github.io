@@ -14,7 +14,7 @@
 
 - [MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition](https://arxiv.org/abs/2303.05309) **Xize Cheng**, Tao Jin, Rongjie Huang, Linjun Li, Wang Lin, Zehan Wang, Huadai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao **ICCV2023**
 
-</div>ICCV
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/av-transpeech.png' alt="sym" width="100%"></div></div>
