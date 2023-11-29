@@ -12,7 +12,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/avst.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition](https://arxiv.org/abs/2303.05309) **Xize Cheng**, Tao Jin, Rongjie Huang, Linjun Li, Wang Lin, Zehan Wang, Huadai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao **Arxiv2023**
+- [MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition](https://arxiv.org/abs/2303.05309) **Xize Cheng**, Tao Jin, Rongjie Huang, Linjun Li, Wang Lin, Zehan Wang, Huadai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao **ICCV2023**
 
 </div>
 </div>
@@ -30,9 +30,10 @@
 
 ## Audio-Visual Speech
 
-- [Uni-Transpeech: Unified Speech-to-Speech Translation with Unit-Based Audio-Visual Speech Synthesis.]() **Xize Cheng**, Linjun Li, Tao Jin, Rongjie Huang, Zehan Wang, Haifeng Huang, Aoxiong Yin, Ye Wang, Wang Lin, Zhou Zhao **Submitted to NIPS2023**
+- [TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation.]() **Xize Cheng**, Rongjie Huang, Linjun Li, Tao Jin, Zehan Wang, Aoxiong Yin, Minglei Li, Xinyu Duan, changpeng yang, Zhou Zhao. **submitted to ICLR2024**
 
-- [MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition.](https://arxiv.org/abs/2303.05309) **Xize Cheng**, Tao Jin, Rongjie Huang, Linjun Li, Wang Lin, Zehan Wang, Huadai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao **Arxiv2023**
+- [Rethinking Missing Modality Learning from a Decoding Perspective.](https://dl.acm.org/doi/abs/10.1145/3581783.3612291) Tao Jin, **Xize Cheng**, Linjun Li, Wang Lin, Ye Wang, Zhou Zhao. **ACMMM2023**
+- [MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition.](https://arxiv.org/abs/2303.05309) **Xize Cheng**, Tao Jin, Rongjie Huang, Linjun Li, Wang Lin, Zehan Wang, Huadai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao. **ICCV2023**
 
 - [OpenSR: Open-Modality Speech Recognition via Maintaining Multi-Modality Alignment.](https://arxiv.org/abs/2306.06410) **Xize Cheng**, Tao Jin, Linjun Li, Wang Lin, Xinyu Duan, Zhou Zhao. **ACL2023(Oral)**
 
@@ -42,11 +43,13 @@
 
 ## Multi-modality Interpretation
 
-- [Connecting Multi-modal Contrastive Representations.](https://arxiv.org/abs/2305.14381) Zehan Wang, Yang Zhao, **Xize Cheng**, Haifeng Huang, Jiageng Liu, Li Tang, Linjun Li, Yongqi Wang, Aoxiong Yin, Ziang Zhang, Zhou Zhao. **Submitted to NIPS2023**
-  
-- [Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding.]() Zehan Wang, Haifeng Huang, Yang Zhao, **Xize Cheng**, Linjun Li, Yichen Zhu and Zhou Zhao. **Arxiv2023**
+- [Connecting Multi-modal Contrastive Representations.](https://arxiv.org/abs/2305.14381) Zehan Wang, Yang Zhao, **Xize Cheng**, Haifeng Huang, Jiageng Liu, Li Tang, Linjun Li, Yongqi Wang, Aoxiong Yin, Ziang Zhang, Zhou Zhao. **NIPS2023**
 
-- [Exploring Group Video Captioning with Efficient Relational Approximation.]() Wang Lin, Tao jin, Xize Cheng, Ye Wang, Linjun Li, Wenwen Pan and Zhou Zhao. **Arxiv2023**
+- [3drp-net: 3d relative position-aware network for 3d visual grounding.](https://arxiv.org/pdf/2307.13363) Zehan Wang, Haifeng Huang, Yang Zhao, Linjun Li, **Xize Cheng**, Yichen Zhu, Aoxiong Yin, Zhou Zhao. **EMNLP2023**
+
+- [Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding.]() Zehan Wang, Haifeng Huang, Yang Zhao, **Xize Cheng**, Linjun Li, Yichen Zhu and Zhou Zhao. **ICCV2023**
+
+- [Exploring Group Video Captioning with Efficient Relational Approximation.]() Wang Lin, Tao Jin, Ye Wang, Wenwen Pan, Linjun Li, **Xize Cheng**, Zhou Zhao **ICCV2023**
   
 - [Weakly-Supervised Spoken Video Grounding via Semantic Interaction Learning.](https://aclanthology.org/2023.acl-long.611/) Ye Wang, Wang Lin, Shengyu Zhang, Tao Jin, Linjun Li, **Xize Cheng** and Zhou Zhao. **ACL2023(Oral)**
 
