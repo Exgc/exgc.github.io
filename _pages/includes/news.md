@@ -4,7 +4,6 @@
 - *2023.09*: 🎉🎉 1 paper is accepted by NIPS 2023!
 - *2023.07*: 🎉🎉 1 Paper are accepted by ACMMM 2023!
 - *2023.05*: 🎉🎉 3 Paper are accepted by ICCV 2023!
-- *2023.06*: I am about to start my internship at Huawei Cloud Technology Innovation Department in Shenzhen, China!
 - *2023.06*: AV-TranSpeech comes out! Media coverage: [PaperWeekly](https://mp.weixin.qq.com/s/2KD8CYToz-mLZStwCXcSnA) and [ByteDance](https://mp.weixin.qq.com/s/SMUWbGqtyYRK6I_VW18hjA).
 - *2023.05*: OpenSR will be presented in **oral** presentation at ACL2023!
 - *2023.05*: 🎉🎉 7 Paper are accepted by ACL 2023!
