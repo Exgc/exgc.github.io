@@ -47,9 +47,17 @@
 
 ## Audio-Visual Speech
 
-- [TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation.]() **Xize Cheng**, Rongjie Huang, Linjun Li, Tao Jin, Zehan Wang, Aoxiong Yin, Minglei Li, Xinyu Duan, changpeng yang, Zhou Zhao. **submitted to ICLR2024**
+- [AudioVSR: Enhancing Video Speech Recognition with Audio Data.](https://aclanthology.org/2024.emnlp-main.858.pdf) Xiaoda Yang* #, **Xize Cheng***, Jiaqi Duan, Hongshun Qiu, Minjie Hong, Minghui Fang, Shengpeng Ji, Jialong Zuo, Zhiqing Hong, Zhimeng Zhang, Tao Jin
 
-- [Rethinking Missing Modality Learning from a Decoding Perspective.](https://dl.acm.org/doi/abs/10.1145/3581783.3612291) Tao Jin, **Xize Cheng**, Linjun Li, Wang Lin, Ye Wang, Zhou Zhao. **ACMMM2023**
+- [SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing](https://arxiv.org/pdf/2409.03605) Lingyu Xiong #, **Xize Cheng ✉**, Jintao Tan #, Xianjia Wu, Xiandong Li, Lei Zhu, Fei Ma, Minglei Li, Huang Xu, Zhihui Hu
+
+- [Boosting Speech Recognition Robustness to Modality-Distortion with Contrast-Augmented Prompts](https://openreview.net/pdf?id=2bTqjmcQjT) Dongjie Fu*#, **Xize Cheng***, Xiaoda Yang#, Wang Hanting, Zhou Zhao, Tao Jin. **ACMMM2024**
+
+- [Uni-Dubbing: Zero-Shot Speech Synthesis from Visual Articulation.](https://aclanthology.org/2024.acl-long.543.pdf) Songju Lei #, **Xize Cheng ✉**, Mengjiao Lyu, Jianqiao Hu, Jintao Tan #, Runlin Liu, Lingyu Xiong #, Tao Jin, Xiandong Li, Zhou Zhao
+
+- [TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation.](https://arxiv.org/pdf/2312.15197) **Xize Cheng**, Rongjie Huang, Linjun Li, Tao Jin, Zehan Wang, Aoxiong Yin, Minglei Li, Xinyu Duan, Zhou Zhao. **ACL2024**
+
+- [Rethinking Missing Modality Learning from a Decoding Perspective.](https://dl.acm.org/doi/abs/10.1145/3581783.3612291) Tao Jin *, **Xize Cheng** *, Linjun Li, Wang Lin, Ye Wang, Zhou Zhao. **ACMMM2023**
 - [MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition.](https://arxiv.org/abs/2303.05309) **Xize Cheng**, Tao Jin, Rongjie Huang, Linjun Li, Wang Lin, Zehan Wang, Huadai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao. **ICCV2023**
 
 - [OpenSR: Open-Modality Speech Recognition via Maintaining Multi-Modality Alignment.](https://arxiv.org/abs/2306.06410) **Xize Cheng**, Tao Jin, Linjun Li, Wang Lin, Xinyu Duan, Zhou Zhao. **ACL2023(Oral)**
