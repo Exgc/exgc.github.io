@@ -19,7 +19,7 @@
     <li><strong>2023.06</strong>: AV-TranSpeech comes out! Media coverage: <a href="https://mp.weixin.qq.com/s/2KD8CYToz-mLZStwCXcSnA" target="_blank">PaperWeekly</a> and <a href="https://mp.weixin.qq.com/s/SMUWbGqtyYRK6I_VW18hjA" target="_blank">ByteDance</a>.</li>
     <li><strong>2023.05</strong>: <a href="https://github.com/Exgc/OpenSR" target="_blank">OpenSR</a> will be presented in an <strong>oral</strong> presentation at <a href="https://acl2023.org/" target="_blank">ACL 2023</a>!</li>
     <li><strong>2023.05</strong>: <span class="emoji">🎉🎉</span> 7 papers are accepted by <a href="https://acl2023.org/" target="_blank">ACL 2023</a>!</li>
-    <li><strong>2023.03</strong>: We created the first Audio-Visual Multi-lingual Speech Translation dataset <a href="https://github.com/Exgc/AVMuST-TED" target="_blank">AVMuST-TED <img src="https://img.shields.io/github/stars/Exgc/AVMuST-TED?style=social" alt="GitHub Stars" class="badge"></a>!</li>
+    <li><strong>2023.03</strong>: We created the first Audio-Visual Multi-lingual Speech Translation dataset <a href="https://github.com/Exgc/AVMuST-TED" target="_blank">AVMuST-TED</a>!</li>
     <li><strong>2022.10</strong>: I was awarded the Outstanding Graduate Student and Triple Excellence Graduate Student of Zhejiang University!</li>
     <li><strong>2021.03</strong>: I started my internship at Taobao as an algorithm intern, conducting multi-modality research.</li>
   </ul>
