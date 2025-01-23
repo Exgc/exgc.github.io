@@ -48,7 +48,9 @@
 ## Spoken Dialogue System & Audio-Visual Speech Understanding
 
 
-- ``Under Review`` [Wavtokenizer: an efficient acoustic discrete codec tokenizer for audio language modeling](https://arxiv.org/pdf/2408.16532) Shengpeng Ji, Ziyue Jiang, **Xize Cheng**, Rongjie Huang, Yidi Jiang, Qian Chen, Siqi Zheng, Zhou Zhao, et al.
+- ``ICLR2025`` [VoxDialogue: Can Spoken Dialogue Systems Understand Information Beyond Words?](https://openreview.net/forum?id=vbmSSIhKAM) **Xize Cheng**, Ruofan Hu, Xiaoda Yang, Jingyu Lu, Dongjie Fu, Zehan Wang, Shengpeng Ji, Rongjie Huang, Boyang Zhang, Tao Jin, Zhou Zhao.
+
+- ``ICLR2025`` [Wavtokenizer: an efficient acoustic discrete codec tokenizer for audio language modeling](https://arxiv.org/pdf/2408.16532) Shengpeng Ji, Ziyue Jiang, **Xize Cheng**, Rongjie Huang, Yidi Jiang, Qian Chen, Siqi Zheng, Zhou Zhao, et al.
 
 - ``Survey`` [WavChat: A Survey of Spoken Dialogue Models](https://arxiv.org/pdf/2411.13577) Shengpeng Ji, Shujie Liu, **Xize Cheng**, Jian Li, Yidi Jiang, Jingzhen He, Yunfei Chu, Jin Xu, Zhou Zhao, et al.
 
@@ -74,7 +76,7 @@
 
 - ``Under Review`` [AVSET-10M: An Open Large-Scale Audio-Visual Dataset with High Correspondence](https://openreview.net/pdf?id=iwC19lVBoq) **Xize Cheng**, Ziang Zhang, Zehan Wang, Minghui Fang, Rongjie Huang, Siqi Zheng, Ruofan Hu, Jionghao Bai, Tao Jin, Zhou Zhao.
 
-- ``Under Review`` [OmniSep: Unified Omni-Modality Sound Separation with Query-Mixup](https://arxiv.org/pdf/2410.21269) **Xize Cheng**, Siqi Zheng, Zehan Wang, Minghui Fang, Ziang Zhang, Rongjie Huang, Ziyang Ma, Shengpeng Ji, Jialong Zuo, Tao Jin, Zhou Zhao.
+- ``ICLR2025`` [OmniSep: Unified Omni-Modality Sound Separation with Query-Mixup](https://arxiv.org/pdf/2410.21269) **Xize Cheng**, Siqi Zheng, Zehan Wang, Minghui Fang, Ziang Zhang, Rongjie Huang, Ziyang Ma, Shengpeng Ji, Jialong Zuo, Tao Jin, Zhou Zhao.
 
 - ``ICML2024`` [Omnibind: Large-scale omni multimodal representation via binding spaces](https://arxiv.org/pdf/2407.11895?) Zehan Wang, Ziang Zhang, Hang Zhang, Luping Liu, Rongjie Huang, **Xize Cheng**, Hengshuang Zhao, Zhou Zhao
 
